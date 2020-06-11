@@ -1,0 +1,38 @@
+15. C10 - Adicionando operações - isNaN e Array.length -> Feita ! 
+
+16. C11 - Eval - Validando o primeiro operador e calculando resultado
+
+
+17. C12 - For - Procurando o último número do Array
+
+
+18. C13 - Botão Porcento
+
+
+19. C14 - Clicando mais de uma vez no botão igual
+
+
+20. C15 - Botão Ponto
+
+
+21. C16 - Correções de Bugs com o Ponto
+
+
+22. C17 - Eventos de Teclado
+
+
+23. C18 - Ctrl + c e Ctrl + v
+
+
+24. C19 - Trabalhando com Áudio
+
+
+25. C20 - Definir o valor máximo
+
+
+26. C21 - Tratar outros erros no eval() com Try Catch
+
+27. C22 - Bonus
+
+
+28. Repositório do Projeto da Calculadora
