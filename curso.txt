@@ -3,19 +3,19 @@
 16. C11 - Eval - Validando o primeiro operador e calculando resultado feito!
 
 
-17. C12 - For - Procurando o último número do Array 
+17. C12 - For - Procurando o último número do Array  -- feito!
 
 
-18. C13 - Botão Porcento
+18. C13 - Botão Porcento feito !
 
 
-19. C14 - Clicando mais de uma vez no botão igual
+19. C14 - Clicando mais de uma vez no botão igual  feito!
 
 
-20. C15 - Botão Ponto
+20. C15 - Botão Ponto feito!
 
 
-21. C16 - Correções de Bugs com o Ponto
+21. C16 - Correções de Bugs com o Ponto feito!
 
 
 22. C17 - Eventos de Teclado
